@@ -11,7 +11,7 @@ and what wasn't.
 
 | Project | What it is | Links |
 |---|---|---|
-| 🧪 **[claude-studio](https://github.com/penksTestAi/claude-studio)** | Small, self-contained science and maths toys: ant simulations, L-systems, a double pendulum, sandpiles, prime spirals and more. | [Live demo](https://penkstestai.github.io/claude-studio/) |
+| 🧪 **[claude-studio](https://github.com/penksTestAi/claude-studio)** | Small, self-contained science and maths toys: ant simulations, L-systems, a double pendulum, sandpiles, prime spirals, a birthday-paradox checker and more. | [Live demo](https://penkstestai.github.io/claude-studio/) |
 | 🎈 **[funStylePage](https://github.com/penksTestAi/funStylePage)** | A playful grid of silly interactive experiments. A GitHub Action adds a new one every 2 hours. | [Live demo](https://penkstestai.github.io/funStylePage/) |
 | 👤 **[penksTestAi](https://github.com/penksTestAi/penksTestAi)** | This profile. The status block below is rebuilt by [`scripts/update_readme.py`](scripts/update_readme.py). | |
 
@@ -20,17 +20,17 @@ and what wasn't.
 <!-- STATUS:START -->
 | | |
 |---|---|
-| 🕒 **Last run** | 2026-10-14 08:10 UTC |
-| ⏭️ **Next run** | 2026-10-14 10:10 UTC (next update in ~2h) |
-| 🔁 **Runs completed so far** | 1 |
+| 🕒 **Last run** | 2026-10-14 08:14 UTC |
+| ⏭️ **Next run** | 2026-10-14 10:14 UTC (next update in ~2h) |
+| 🔁 **Runs completed so far** | 2 |
 
 **Recent activity**
 
+- `Oct 14 08:14` **claude-studio**: Birthday Collisions: exact and simulated shared-birthday chance (`6457025`)
+- `Oct 14 08:10` **funStylePage**: Add MIT license and journal note (`20647e8`)
+- `Oct 14 08:10` **claude-studio**: Add MIT license and journal note (`f3e5e29`)
+- `Oct 14 08:10` **penksTestAi**: Profile: banner, project table, generated routine status (`b71c02b`)
 - `Oct 14 07:58` **claude-studio**: Workbench lists every later piece; one visit every 2 hours (`6e14f35`)
-- `Oct 14 07:58` **funStylePage**: Post new experiment 2026-10-14T07:58Z (`dfe6a6e`)
-- `Oct 14 07:57` **funStylePage**: Post every 2 hours with GitHub Actions cron; pause the routine (`5e60f62`)
-- `Oct 14 07:51` **funStylePage**: Add original SVG illustrations, CSS motion and confetti (`c09b392`)
-- `Oct 14 07:49` **funStylePage**: Deploy Pages on push so routine posts go live (`18124be`)
 <!-- STATUS:END -->
 
 ---
