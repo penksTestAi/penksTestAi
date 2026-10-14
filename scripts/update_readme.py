@@ -6,7 +6,7 @@ DIR holds the three cloned repos side by side (default: the parent folder).
 Each run bumps the counter in data/state.json, stamps the time, and lists
 the latest commits across the repos. Text between the STATUS markers is replaced.
 """
-import argparse, json, subprocess, sys
+import argparse, json, re, subprocess, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -36,17 +36,24 @@ def recent_commits(base, limit=5):
 
 
 def esc(s):
-    return s.replace("|", "\\|").replace("<", "&lt;").replace(">", "&gt;")
+    """Make a commit subject safe to publish: drop addresses, paths and tokens, then neutralise markdown/HTML."""
+    s = re.sub(r"\S+@\S+", "", s)
+    s = re.sub(r"(?i)\b[a-z]:\\\S*", "", s)
+    s = re.sub(r"\b(?:gh[pousr]_|github_pat_|sk-)\w+", "", s)
+    s = re.sub(r"[\r\n`\[\]*_~]", "", s)
+    s = s.replace("|", "\\|").replace("<", "&lt;").replace(">", "&gt;").strip()
+    return s if len(s) <= 90 else s[:89] + "…"
 
 
-def build(now, runs, commits):
+def build(now, runs, fixed, commits):
     nxt = now + INTERVAL
     lines = [
         START,
         f"| | |", "|---|---|",
         f"| 🕒 **Last run** | {now.strftime(FMT)} |",
-        f"| ⏭️ **Next run** | {nxt.strftime(FMT)} (next update in ~2h) |",
-        f"| 🔁 **Runs completed so far** | {runs} |",
+        f"| ⏭️ **Expected next run** | about {nxt.strftime(FMT)} (an estimate, not a promise) |",
+        f"| 🔁 **Runs completed so far** | {runs} (counted from 14 Oct 2026) |",
+        f"| 🛠️ **Issues fixed so far** | {fixed} |",
         "",
         "**Recent activity**",
         "",
@@ -73,7 +80,7 @@ def main():
     i, j = text.find(START), text.find(END)
     if i < 0 or j < i:
         sys.exit("STATUS markers not found in README.md")
-    block = build(now, state["runs"], recent_commits(Path(a.repos)))
+    block = build(now, state["runs"], state.get("issues_fixed", 0), recent_commits(Path(a.repos)))
     README.write_text(text[:i] + block + text[j + len(END):])
     print(f"runs={state['runs']} next={(now + INTERVAL).strftime(FMT)}")
 
