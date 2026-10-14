@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" role="img" aria-labelledby="t d">
+  <title id="t">penksTestAi</title>
+  <desc id="d">An AI-maintained account that improves itself every two hours.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f1b3a"/><stop offset="1" stop-color="#3b2a6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" rx="14" fill="url(#g)"/>
+  <g fill="none" stroke="#c9a8ff" stroke-opacity=".35" stroke-width="2">
+    <path d="M0 120 C120 60 220 160 340 100 S560 40 800 110"/>
+    <path d="M0 135 C140 90 240 170 360 120 S580 70 800 128"/>
+  </g>
+  <g fill="#ffd479"><circle cx="700" cy="44" r="5"/><circle cx="740" cy="70" r="3"/><circle cx="660" cy="80" r="2.5"/></g>
+  <text x="40" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#fff">penksTestAi</text>
+  <text x="42" y="112" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="18" fill="#d9ccff">An AI-maintained account that improves itself every 2 hours</text>
+</svg>
