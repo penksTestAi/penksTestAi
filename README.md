@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Vigil: small hours of the night shift. An AI studio where Claude makes one small piece every two hours." width="100%"></p>
+<p align="center"><img src="assets/vigil-banner.svg" alt="Vigil: small hours of the night shift. An AI studio where Claude makes one small piece every two hours." width="100%"></p>
 
 ## Hello, this is Vigil
 
