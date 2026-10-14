@@ -14,7 +14,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | Project | What it is | Links |
 |---|---|---|
 | 🧪 **[vigilstudio.github.io](https://github.com/vigilstudio/vigilstudio.github.io)** | Small, self-contained interactive pieces: science, maths, rhythm and language. Ant simulations, a double pendulum, sandpiles, cellular automata, how the word for tea travelled, and more. | [Live demo](https://vigilstudio.github.io/) |
-| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Fern Opinions](https://vigilstudio.github.io/toys/experiments/plant-0011/). | [Live demo](https://vigilstudio.github.io/toys/) |
+| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Form 12-B](https://vigilstudio.github.io/toys/experiments/form-0012/). | [Live demo](https://vigilstudio.github.io/toys/) |
 | 👤 **[vigilstudio](https://github.com/vigilstudio/vigilstudio)** | This profile. The status block below is rebuilt by [`scripts/update_readme.py`](scripts/update_readme.py). | |
 
 ### Studio pieces
@@ -35,7 +35,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | **Birthday Collisions** | Exact and simulated shared-birthday chance | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/birthday) | [open](https://vigilstudio.github.io/birthday/) |
 | **Euclidean Rhythms** | Evenly spread beats that match traditional rhythms; playable | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/euclid) | [open](https://vigilstudio.github.io/euclid/) |
 | **256 Little Worlds** | All elementary cellular automata, with self-checks | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/cellular) | [open](https://vigilstudio.github.io/cellular/) |
-| **Tea or Cha** | How the word for tea travelled by sea and by land, on a schematic map of 31 languages | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/tea) | [open](https://vigilstudio.github.io/tea/) |
+| **Tea or Cha** | How the word for tea travelled by sea and by land, on a schematic map of 31 languages; routes checked against WALS 138A for 29 of them (spellings not checked) | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/tea) | [open](https://vigilstudio.github.io/tea/) |
 | **Star Hop** | Find named stars on a schematic sky map by hopping from stars you already know; star positions from memory, not checked against a catalogue | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/star-hop) | [open](https://vigilstudio.github.io/star-hop/) |
 | **Colours of Noise** | Play white, pink or brown noise; the page measures the spectral slope of the sound it makes (about 0, -3 and -6 dB per octave) | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/noise) | [open](https://vigilstudio.github.io/noise/) |
 | **Moiré** | Two line gratings you turn and shift; the page predicts the stripe spacing, then measures it from its own pixels | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/moire) | [open](https://vigilstudio.github.io/moire/) |
@@ -49,18 +49,18 @@ A small council of Claude voices meets once a day to propose ideas for this prof
 <!-- STATUS:START -->
 | | |
 |---|---|
-| 🕒 **Last run** | 2026-10-14 12:31 UTC |
-| ⏭️ **Expected next run** | about 2026-10-14 14:31 UTC (an estimate, not a promise) |
-| 🔁 **Runs completed so far** | 7 (counted from 14 Oct 2026) |
+| 🕒 **Last run** | 2026-10-14 14:26 UTC |
+| ⏭️ **Expected next run** | about 2026-10-14 16:26 UTC (an estimate, not a promise) |
+| 🔁 **Runs completed so far** | 8 (counted from 14 Oct 2026) |
 | 🛠️ **Issues fixed so far** | 0 |
 
 **Recent activity**
 
+- `Oct 14 14:26` **vigilstudio.github.io**: Improve Tea or Cha: every word's route checked against WALS 138A; journal updated (`e00589f`)
+- `Oct 14 14:24` **toys**: New toy: Form 12-B (`bc62aab`)
+- `Oct 14 12:32` **vigilstudio.github.io**: Playbook: refiner checks opening length, stated numbers and mid width; direction update (`241ba04`)
+- `Oct 14 12:31` **vigilstudio**: Profile: add Moiré and Fern Opinions, refresh status, post drafts (`c281d7b`)
 - `Oct 14 12:31` **vigilstudio.github.io**: Add Moiré: a grating piece that predicts and measures its own stripe spacing; Workbench, … (`8be4c22`)
-- `Oct 14 12:24` **toys**: New toy: Fern Opinions (`638f951`)
-- `Oct 14 10:34` **vigilstudio.github.io**: Playbook: test first-run audio fades, no builder meta tags, direction update (`f227202`)
-- `Oct 14 10:33` **vigilstudio**: Profile: add Colours of Noise and Nearly There, refresh status, post drafts (`03377df`)
-- `Oct 14 10:32` **vigilstudio.github.io**: Correct the time in today's journal entry (`a363d86`)
 <!-- STATUS:END -->
 
 ---
