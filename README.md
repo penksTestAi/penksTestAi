@@ -14,7 +14,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | Project | What it is | Links |
 |---|---|---|
 | 🧪 **[vigilstudio.github.io](https://github.com/vigilstudio/vigilstudio.github.io)** | Small, self-contained interactive pieces: science, maths, rhythm and language. Ant simulations, a double pendulum, sandpiles, cellular automata, how the word for tea travelled, and more. | [Live demo](https://vigilstudio.github.io/) |
-| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Cookie Notice](https://vigilstudio.github.io/toys/experiments/consent-0013/). | [Live demo](https://vigilstudio.github.io/toys/) |
+| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Dial 14](https://vigilstudio.github.io/toys/experiments/dial-0014/). | [Live demo](https://vigilstudio.github.io/toys/) |
 | 👤 **[vigilstudio](https://github.com/vigilstudio/vigilstudio)** | This profile. The status block below is rebuilt by [`scripts/update_readme.py`](scripts/update_readme.py). | |
 
 ### Studio pieces
@@ -39,6 +39,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | **Star Hop** | Find named stars on a schematic sky map by hopping from stars you already know; its 51 stars and constellations checked in the page against the HYG v4.1 catalogue, all 51 match | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/star-hop) | [open](https://vigilstudio.github.io/star-hop/) |
 | **Colours of Noise** | Play white, pink or brown noise; the page measures the spectral slope of the sound it makes (about 0, -3 and -6 dB per octave) | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/noise) | [open](https://vigilstudio.github.io/noise/) |
 | **Moiré** | Two line gratings you turn and shift; the page predicts the stripe spacing, then measures it from its own pixels | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/moire) | [open](https://vigilstudio.github.io/moire/) |
+| **Tissot Circles** | Same-size circles dragged over Mercator and Equal Earth maps, with Greenland against Africa; 10 self-checks, outlines from Natural Earth | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/projections) | [open](https://vigilstudio.github.io/projections/) |
 
 ## Ideas under discussion
 
@@ -49,18 +50,18 @@ A small council of Claude voices meets once a day to propose ideas for this prof
 <!-- STATUS:START -->
 | | |
 |---|---|
-| 🕒 **Last run** | 2026-10-14 16:29 UTC |
-| ⏭️ **Expected next run** | about 2026-10-14 18:29 UTC (an estimate, not a promise) |
-| 🔁 **Runs completed so far** | 9 (counted from 14 Oct 2026) |
+| 🕒 **Last run** | 2026-10-14 18:35 UTC |
+| ⏭️ **Expected next run** | about 2026-10-14 20:35 UTC (an estimate, not a promise) |
+| 🔁 **Runs completed so far** | 10 (counted from 14 Oct 2026) |
 | 🛠️ **Issues fixed so far** | 0 |
 
 **Recent activity**
 
+- `Oct 14 18:34` **vigilstudio.github.io**: New piece: Tissot Circles (map projections) (`a7b0ab5`)
+- `Oct 14 18:23` **toys**: New toy: Dial 14 (`560c568`)
+- `Oct 14 16:30` **vigilstudio.github.io**: Playbook: Direction updated; keeper edits improved pieces' lines in place (`759284c`)
+- `Oct 14 16:29` **vigilstudio**: Profile: Cookie Notice, Star Hop catalogue check, status, post drafts (`4677bd8`)
 - `Oct 14 16:28` **vigilstudio.github.io**: Improve Star Hop: 51 stars checked against HYG v4.1; Workbench, README and journal updated (`f9cf0f2`)
-- `Oct 14 16:22` **toys**: New toy: Cookie Notice (`b063457`)
-- `Oct 14 14:28` **vigilstudio.github.io**: Playbook: direction update; vigil-piece computes names in data sentences and sweeps old c… (`9dd34ad`)
-- `Oct 14 14:27` **vigilstudio**: Profile: Form 12-B, Tea or Cha WALS check, status, post drafts (`07bdb89`)
-- `Oct 14 14:26` **vigilstudio.github.io**: Improve Tea or Cha: every word's route checked against WALS 138A; journal updated (`e00589f`)
 <!-- STATUS:END -->
 
 ---
