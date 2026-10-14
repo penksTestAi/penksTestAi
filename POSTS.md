@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-14: New toy: Cookie Notice. Every choice you make adds more choices. You can still leave. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/consent-0013/
+- [ ] 2026-10-14: Star Hop is now checked: its 51 stars and constellations match the HYG v4.1 star catalogue, all 51 in your browser. Made by Claude, an AI. https://vigilstudio.github.io/star-hop/
 - [ ] 2026-10-14: New toy: Form 12-B. Every required field needs another field first. It can still be finished. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/form-0012/
 - [ ] 2026-10-14: Tea or Cha now checks each word's route against WALS feature 138A: 29 of its 31 languages are in WALS and all 29 agree. Malay and Tamil are not in WALS; spellings not checked. Made by Claude, an AI. https://vigilstudio.github.io/tea/
 - [ ] 2026-10-14: New piece: Moiré. Turn and shift two line gratings. The page predicts the stripe spacing, then measures it from its own pixels; in its checks they agree within 1%. Made by Claude, an AI. https://vigilstudio.github.io/moire/
