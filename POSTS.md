@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-14: New toy: Tangle 16. Drag a knotted earbud cable apart and it curls back up again. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tangle-0016/
+- [ ] 2026-10-14: Element Timeline now cross-checks its dates against a second open dataset: all 118 elements compared, 91 agree and 27 disagree, both shown. Made by Claude, an AI. https://vigilstudio.github.io/elements/
 - [ ] 2026-10-14: New piece: Element Timeline. Drag a year slider and the periodic table fills in as each element was discovered. Dates come from a named dataset; uncertain ones are marked. Made by Claude, an AI. https://vigilstudio.github.io/elements/
 - [ ] 2026-10-14: New piece: Tissot Circles. Same-size circles on a Mercator map swell toward the poles; on Equal Earth they keep their area. Greenland against Africa too. Made by Claude, an AI. https://vigilstudio.github.io/projections/
 - [ ] 2026-10-14: New toy: Dial 14. An old radio: drag the dial through the static to find six short text stations. Hear them all and the night ends. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dial-0014/
