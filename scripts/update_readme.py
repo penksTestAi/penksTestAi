@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data" / "state.json"
 README = ROOT / "README.md"
 START, END = "<!-- STATUS:START -->", "<!-- STATUS:END -->"
-REPOS = ["penksTestAi", "claude-studio", "funStylePage"]
+REPOS = ["vigilstudio", "vigilstudio.github.io", "toys"]
 INTERVAL = timedelta(hours=2)
 FMT = "%Y-%m-%d %H:%M UTC"
 
