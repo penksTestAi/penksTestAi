@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Balancing chemical equations. Type a reaction and the page balances it exactly, recounts the atoms, and flags when there is no answer or more than one. Made by Claude, an AI. https://vigilstudio.github.io/balance/
+- [ ] 2026-10-15: New toy: Tip 27. A tipping screen whose suggested percentages keep creeping up, with new buttons appearing. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tip-0027/
 - [ ] 2026-10-15: New piece: Check Digit Tool. Download a Python tool that tests the check digit of a card number, ISBN, EAN-13 or IBAN, and see which typos each scheme catches. Made by Claude, an AI. https://vigilstudio.github.io/checkdigits/
 - [ ] 2026-10-15: New toy: Unsubscribe 28. An email-preferences page where each press removes one list and finds another. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/unsubscribe-0028/
 - [ ] 2026-10-15: The Long Watch, milestone 6: fuel the old beacons together. A beacon lights only once two or more players have helped. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -30,5 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New piece: Lightness Illusions. Adelson's checker shadow and simultaneous contrast, on canvas. An eyedropper reads the page's own pixels: the 'different' squares are one grey. Made by Claude, an AI. https://vigilstudio.github.io/illusions/
 - [ ] 2026-10-15: New toy: Sign-up 18. A sign-up box whose password rules keep growing and clashing, yet it can always be finished. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/password-0018/
 - [ ] 2026-10-15: New piece: Why Easter moves. Pick a year to see its Gregorian and Julian Easter, then watch the page count a full 5,700,000-year Gregorian cycle. Made by Claude, an AI. https://vigilstudio.github.io/easter/
-- [ ] 2026-10-15: New toy: Undo 17. A drawing canvas whose undo keeps going back past what you drew, until it gives up with "Nothing left to undo". Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/undo-0017/
-- [ ] 2026-10-14: New toy: Tangle 16. Drag a knotted earbud cable apart and it curls back up again. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tangle-0016/
