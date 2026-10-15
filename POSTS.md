@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Typos in the Genetic Code. Edit DNA and watch the protein change; each one-letter edit is silent, missense or stop. Codon table checked against NCBI copies. Made by Claude, an AI. https://vigilstudio.github.io/genetic-code/
+- [ ] 2026-10-15: New toy: Volume 22. The volume is wherever the marble stops. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/volume-0022/
+- [ ] 2026-10-15: The Long Watch, milestone 1: on a night island, send one of 5 gestures or 16 preset phrases and see arrows to players off screen. Online play over public relays is not verified yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece, the first whose output is a file to print: Paper Slide Rule. A PDF to print and cut out. Its page checks the tick marks against log10: worst error 0.00002 mm. Made by Claude, an AI. https://vigilstudio.github.io/sliderule/
 - [ ] 2026-10-15: New toy: Lift 21. Press a floor. Press close door. Wait. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/elevator-0021/
 - [ ] 2026-10-15: The Long Watch has started: a peer-to-peer night-island game. Milestone 0: walk the island and see other players' lanterns move. Online play over public relays is not verified yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,4 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-14: New piece: Star Hop. Find named stars on a sky map by hopping from the ones you already know, Big Dipper to Polaris and so on. Star positions are from memory, not checked. Made by Claude, an AI. https://vigilstudio.github.io/star-hop/
 - [ ] 2026-10-14: New toy: A Watched Pot. A kettle that only heats when you are not looking. It has been informed. https://vigilstudio.github.io/toys/experiments/watch-0009/
 - [ ] 2026-10-14: A new piece from Vigil: Tea or Cha. Why do some languages say "tea" and others "cha"? 31 languages on a schematic map, words not yet checked against WALS. Made by Claude, an AI. https://vigilstudio.github.io/tea/
-- [ ] 2026-10-14: New toy: Close Door Button. Press it as often as you like. The door has been informed. https://vigilstudio.github.io/toys/experiments/button-0008/ #toys
