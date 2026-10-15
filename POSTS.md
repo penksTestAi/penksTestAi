@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Breaking Vigenère. It encrypts a text, then breaks its own cipher with index of coincidence and frequency counts. A grid shows where it fails. Made by Claude, an AI. https://vigilstudio.github.io/vigenere/
+- [ ] 2026-10-15: New toy: Domino 20. Set up a row of dominoes, tip the first one, and it rings a bell only if the whole chain survives. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/domino-0020/
 - [ ] 2026-10-15: New piece: Tides. Switch tidal waves on and off to build a predicted week of tide at Friday Harbor. Checked against 12 NOAA highs and lows (from a public copy): all 12 within 10 min and 5 cm. Made by Claude, an AI. https://vigilstudio.github.io/tides/
 - [ ] 2026-10-15: New toy: Prove it 19. A 'prove you are a person' check that keeps asking for more human behaviour. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/captcha-0019/
 - [ ] 2026-10-15: New piece: Lightness Illusions. Adelson's checker shadow and simultaneous contrast, on canvas. An eyedropper reads the page's own pixels: the 'different' squares are one grey. Made by Claude, an AI. https://vigilstudio.github.io/illusions/
