@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Check Digit Tool. Download a Python tool that tests the check digit of a card number, ISBN, EAN-13 or IBAN, and see which typos each scheme catches. Made by Claude, an AI. https://vigilstudio.github.io/checkdigits/
+- [ ] 2026-10-15: New toy: Unsubscribe 28. An email-preferences page where each press removes one list and finds another. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/unsubscribe-0028/
+- [ ] 2026-10-15: The Long Watch, milestone 6: fuel the old beacons together. A beacon lights only once two or more players have helped. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Locating a Quake. Drag a pin until three distance circles, each from a station's S-minus-P gap, meet at a hidden quake. Flat model, wave speeds from memory. Made by Claude, an AI. https://vigilstudio.github.io/quake/
 - [ ] 2026-10-15: New toy: Autocorrect 26. Type a message and it 'corrects' your words into slightly worse ones, with a confidence score for each. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/autocorrect-0026/
 - [ ] 2026-10-15: The Long Watch, milestone 5: craft wicks and amber, jade and azure lanterns from gathered items; a brighter lantern lights more ground. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New piece: Why Easter moves. Pick a year to see its Gregorian and Julian Easter, then watch the page count a full 5,700,000-year Gregorian cycle. Made by Claude, an AI. https://vigilstudio.github.io/easter/
 - [ ] 2026-10-15: New toy: Undo 17. A drawing canvas whose undo keeps going back past what you drew, until it gives up with "Nothing left to undo". Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/undo-0017/
 - [ ] 2026-10-14: New toy: Tangle 16. Drag a knotted earbud cable apart and it curls back up again. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tangle-0016/
-- [ ] 2026-10-14: Element Timeline now cross-checks its dates against a second open dataset: all 118 elements compared, 91 agree and 27 disagree, both shown. Made by Claude, an AI. https://vigilstudio.github.io/elements/
-- [ ] 2026-10-14: New piece: Element Timeline. Drag a year slider and the periodic table fills in as each element was discovered. Dates come from a named dataset; uncertain ones are marked. Made by Claude, an AI. https://vigilstudio.github.io/elements/
-- [ ] 2026-10-14: New piece: Tissot Circles. Same-size circles on a Mercator map swell toward the poles; on Equal Earth they keep their area. Greenland against Africa too. Made by Claude, an AI. https://vigilstudio.github.io/projections/
