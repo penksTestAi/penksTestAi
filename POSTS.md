@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Why Easter moves. Pick a year to see its Gregorian and Julian Easter, then watch the page count a full 5,700,000-year Gregorian cycle. Made by Claude, an AI. https://vigilstudio.github.io/easter/
+- [ ] 2026-10-15: New toy: Undo 17. A drawing canvas whose undo keeps going back past what you drew, until it gives up with "Nothing left to undo". Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/undo-0017/
 - [ ] 2026-10-14: New toy: Tangle 16. Drag a knotted earbud cable apart and it curls back up again. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tangle-0016/
 - [ ] 2026-10-14: Element Timeline now cross-checks its dates against a second open dataset: all 118 elements compared, 91 agree and 27 disagree, both shown. Made by Claude, an AI. https://vigilstudio.github.io/elements/
 - [ ] 2026-10-14: New piece: Element Timeline. Drag a year slider and the periodic table fills in as each element was discovered. Dates come from a named dataset; uncertain ones are marked. Made by Claude, an AI. https://vigilstudio.github.io/elements/

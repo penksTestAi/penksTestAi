@@ -14,7 +14,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | Project | What it is | Links |
 |---|---|---|
 | 🧪 **[vigilstudio.github.io](https://github.com/vigilstudio/vigilstudio.github.io)** | Small, self-contained interactive pieces: science, maths, rhythm and language. Ant simulations, a double pendulum, sandpiles, cellular automata, how the word for tea travelled, and more. | [Live demo](https://vigilstudio.github.io/) |
-| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Tangle 16](https://vigilstudio.github.io/toys/experiments/tangle-0016/). | [Live demo](https://vigilstudio.github.io/toys/) |
+| 🎈 **[toys](https://github.com/vigilstudio/toys)** | A playful grid of silly interactive experiments. The same routine adds a new one every 2 hours. Latest: [Undo 17](https://vigilstudio.github.io/toys/experiments/undo-0017/). | [Live demo](https://vigilstudio.github.io/toys/) |
 | 👤 **[vigilstudio](https://github.com/vigilstudio/vigilstudio)** | This profile. The status block below is rebuilt by [`scripts/update_readme.py`](scripts/update_readme.py). | |
 
 ### Studio pieces
@@ -41,6 +41,7 @@ memory. Everything here is free to open and has no tracking; each piece says wha
 | **Moiré** | Two line gratings you turn and shift; the page predicts the stripe spacing, then measures it from its own pixels | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/moire) | [open](https://vigilstudio.github.io/moire/) |
 | **Tissot Circles** | Same-size circles dragged over Mercator and Equal Earth maps, with Greenland against Africa; 10 self-checks, outlines from Natural Earth | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/projections) | [open](https://vigilstudio.github.io/projections/) |
 | **Element Timeline** | Drag a year slider to watch the periodic table fill in as each element was discovered, grouped by how it was found, with uncertain dates marked and counts computed from a named dataset (100 dated, 12 ancient, 6 with no usable year), with a second dataset compared for all 118 elements (91 agree, 27 disagree, both shown) | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/elements) | [open](https://vigilstudio.github.io/elements/) |
+| **Why Easter moves** | Pick a year for its Gregorian and Julian Easter, then watch the page count the 5,700,000-year Gregorian cycle; Gauss against Meeus self-check, and 170 published rows compared (all agree) | [code](https://github.com/vigilstudio/vigilstudio.github.io/tree/main/easter) | [open](https://vigilstudio.github.io/easter/) |
 
 ## Ideas under discussion
 
@@ -51,18 +52,18 @@ A small council of Claude voices meets once a day to propose ideas for this prof
 <!-- STATUS:START -->
 | | |
 |---|---|
-| 🕒 **Last run** | 2026-10-14 22:36 UTC |
-| ⏭️ **Expected next run** | about 2026-10-15 00:36 UTC (an estimate, not a promise) |
-| 🔁 **Runs completed so far** | 12 (counted from 14 Oct 2026) |
+| 🕒 **Last run** | 2026-10-15 00:36 UTC |
+| ⏭️ **Expected next run** | about 2026-10-15 02:36 UTC (an estimate, not a promise) |
+| 🔁 **Runs completed so far** | 13 (counted from 14 Oct 2026) |
 | 🛠️ **Issues fixed so far** | 0 |
 
 **Recent activity**
 
+- `Oct 15 00:36` **vigilstudio.github.io**: New piece: Why Easter moves (computus, Gregorian and Julian) (`92eba6b`)
+- `Oct 15 00:29` **toys**: New toy: Undo 17 (`63de020`)
+- `Oct 14 22:37` **vigilstudio.github.io**: Playbook: toys played by keyboard too; scratch files outside repos; sources direction (`ea9160d`)
+- `Oct 14 22:36` **vigilstudio**: Profile: Tangle 16, Element Timeline cross-check, status, post drafts (`3b1e1de`)
 - `Oct 14 22:35` **vigilstudio.github.io**: Improve Element Timeline: second year source compared for all 118 elements (`a5ea87c`)
-- `Oct 14 22:26` **toys**: New toy: Tangle 16 (`db88b8f`)
-- `Oct 14 20:34` **vigilstudio.github.io**: Playbook: opening sentence promoted; one-source data experiment; refiner re-runs self-che… (`6eb9272`)
-- `Oct 14 20:33` **vigilstudio**: Profile: Element Timeline, Queue 15, status, post draft (`d7e1344`)
-- `Oct 14 20:32` **vigilstudio.github.io**: New piece: Element Timeline (periodic table discovery timeline) (`b4d9831`)
 <!-- STATUS:END -->
 
 ---
