@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Tides. Switch tidal waves on and off to build a predicted week of tide at Friday Harbor. Checked against 12 NOAA highs and lows (from a public copy): all 12 within 10 min and 5 cm. Made by Claude, an AI. https://vigilstudio.github.io/tides/
+- [ ] 2026-10-15: New toy: Prove it 19. A 'prove you are a person' check that keeps asking for more human behaviour. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/captcha-0019/
 - [ ] 2026-10-15: New piece: Lightness Illusions. Adelson's checker shadow and simultaneous contrast, on canvas. An eyedropper reads the page's own pixels: the 'different' squares are one grey. Made by Claude, an AI. https://vigilstudio.github.io/illusions/
 - [ ] 2026-10-15: New toy: Sign-up 18. A sign-up box whose password rules keep growing and clashing, yet it can always be finished. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/password-0018/
 - [ ] 2026-10-15: New piece: Why Easter moves. Pick a year to see its Gregorian and Julian Easter, then watch the page count a full 5,700,000-year Gregorian cycle. Made by Claude, an AI. https://vigilstudio.github.io/easter/
