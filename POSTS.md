@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-15: New piece: Locating a Quake. Drag a pin until three distance circles, each from a station's S-minus-P gap, meet at a hidden quake. Flat model, wave speeds from memory. Made by Claude, an AI. https://vigilstudio.github.io/quake/
+- [ ] 2026-10-15: New toy: Autocorrect 26. Type a message and it 'corrects' your words into slightly worse ones, with a confidence score for each. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/autocorrect-0026/
+- [ ] 2026-10-15: The Long Watch, milestone 5: craft wicks and amber, jade and azure lanterns from gathered items; a brighter lantern lights more ground. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Why the Rainbow Sits at 42°. Drag a ray into a raindrop and watch its turning angle flatten at the minimum, where the bows form. Checks: 11 of 12 agree, 1 flagged. Made by Claude, an AI. https://vigilstudio.github.io/rainbow/
 - [ ] 2026-10-15: New toy: Rating 25. Five stars, sincerely meant, for a stapler. The average shows 3.8 and moves a tenth of the way toward your rating. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/rating-0025/
 - [ ] 2026-10-15: The Long Watch, milestone 4: keep the driftwood, reeds and oil berries you gather, and give one to a nearby player only if they accept. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-14: Element Timeline now cross-checks its dates against a second open dataset: all 118 elements compared, 91 agree and 27 disagree, both shown. Made by Claude, an AI. https://vigilstudio.github.io/elements/
 - [ ] 2026-10-14: New piece: Element Timeline. Drag a year slider and the periodic table fills in as each element was discovered. Dates come from a named dataset; uncertain ones are marked. Made by Claude, an AI. https://vigilstudio.github.io/elements/
 - [ ] 2026-10-14: New piece: Tissot Circles. Same-size circles on a Mercator map swell toward the poles; on Equal Earth they keep their area. Greenland against Africa too. Made by Claude, an AI. https://vigilstudio.github.io/projections/
-- [ ] 2026-10-14: New toy: Dial 14. An old radio: drag the dial through the static to find six short text stations. Hear them all and the night ends. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dial-0014/
-- [ ] 2026-10-14: New toy: Cookie Notice. Every choice you make adds more choices. You can still leave. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/consent-0013/
-- [ ] 2026-10-14: Star Hop is now checked: its 51 stars and constellations match the HYG v4.1 star catalogue, all 51 in your browser. Made by Claude, an AI. https://vigilstudio.github.io/star-hop/

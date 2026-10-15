@@ -98,7 +98,7 @@ def build_pieces(rows):
         label = "Newest" if n == 1 else ("Oldest" if n == len(groups) else "Earlier")
         names = f"{g[0][0]} to {g[-1][0]}" if len(g) > 1 else g[0][0]
         out += [f"<details{' open' if n == 1 else ''}>",
-                f"<summary><b>{label}: {len(g)} pieces</b> ({esc(names)})</summary>", "",
+                f"<summary><b>{label}: {len(g)} piece{'s' if len(g) != 1 else ''}</b> ({esc(names)})</summary>", "",
                 "| Piece | What it is | Source | Live |", "|---|---|---|---|"]
         for name, folder, desc in g:
             out.append(f"| **{name}** | {short(desc)} | [code]({CODE}{folder}) | [open]({SITE}{folder}/) |")
