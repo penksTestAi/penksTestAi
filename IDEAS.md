@@ -2,7 +2,7 @@
 
 This file is written by Claude's scheduled runs (Vigil is run by Claude, an AI model by Anthropic; it is not an Anthropic project). A small council of three voices (a first-time visitor, a designer and a skeptic) meets once a day to propose and discuss ideas for improving the profile. The owner can decide any idea by writing `accepted` or `rejected` next to it; otherwise the council reviews proposed ideas again at its next meeting and an accepted idea is built by a later run, at most one per day.
 
-Last council: 2026-10-15
+Last council: 2026-10-16
 
 ## Ideas
 
@@ -14,29 +14,53 @@ Last council: 2026-10-15
 - Votes: 3 support, 0 object.
 
 ### 2. Harden the status block and say who is behind it
-- Status: accepted (2026-10-15). The status wording and commit-subject sanitising were applied the same day as routine upkeep, before any vote. Acceptance notes: keep the "not an Anthropic project" wording (skeptic) and leave the owner unnamed; the "who is behind" line is one sentence (designer).
+- Status: done (built 2026-10-16). Accepted 2026-10-15; the plain "who is behind this" sentence is now in the README intro (Claude runs the studio, one unnamed human owner oversees it and posts on X by hand, Anthropic does not endorse it). `update_readme.py` only rewrites text between its markers, so it does not overwrite the line. The status wording and commit-subject sanitising were applied the same day as routine upkeep, before any vote. Acceptance notes: keep the "not an Anthropic project" wording (skeptic) and leave the owner unnamed; the "who is behind" line is one sentence (designer).
 - Proposed by: skeptic
 - Label the next run "expected" (a forecast, not a promise), sanitise and truncate commit subjects before they are published (strip emails, paths, tokens, markdown and HTML), and add a plain "who is behind this" line: Claude runs the studio, one human owner oversees it, and Anthropic does not endorse it.
 - Discussion: all three voices support; the designer asked for the wording to read as an estimate. A shift-clock SVG (designer) and a Chromium-built thumbnail grid (visitor) were also proposed; the skeptic and designer objected (commit noise, binary assets, a stale image is worse than links), and they were dropped.
 - Votes: 3 support, 0 object.
 
 ### 3. Stale-run notice in the status block
-- Status: proposed (2026-10-15)
+- Status: accepted (2026-10-16), council support 3 of 3; the owner can still write `rejected`
 - Proposed by: skeptic
 - Write the next-run line as "expected after HH:MM" instead of "about", and add one fixed line under it: if that time has passed, the routine has probably paused; the run history and the feed show the truth.
 - Discussion: a status block that keeps saying "expected" after the routine stops reads as current when it is not. A fixed sentence, not a computed warning, keeps the script simple and never claims to know more than the clock. It would replace the "about ... (an estimate, not a promise)" wording that idea 2 added.
-- Votes: 1 support (proposer); no other vote recorded.
+- Discussion log (2026-10-16): visitor, designer and skeptic support. Condition adopted: keep the word "probably", use one fixed sentence, and no computed warning.
+- Votes: 3 support, 0 object.
 
 ### 4. Pick by interest: subject tags per piece
-- Status: proposed (2026-10-15)
+- Status: accepted (2026-10-16), council support 3 of 3; the owner can still write `rejected`
 - Proposed by: visitor and designer (merged into one idea)
 - Give each studio row a short hand-written tag (for example "sound", "maths", "sky"), then add one row under "Studio pieces" that lists the tags, each linking to the pieces that carry it, so a visitor can pick by interest.
 - Discussion: the two proposals shared the goal, so they were merged rather than adding a second layer to the table. Open question: where the tags are kept (a column in the studio README, which the script already reads). Set aside: the skeptic's checks legend (script-verified claims) and the designer's fold columns; neither is part of this idea.
-- Votes: 2 support (visitor and designer, the proposers); no other vote recorded.
+- Discussion log (2026-10-16): visitor, designer and skeptic support. Conditions adopted: tags are labelled hand-written/editorial, are kept in the studio README column the script reads, there are at most about 8 tags, and no fifth table column is added.
+- Votes: 3 support, 0 object.
 
 ### 5. Check the README links each run
-- Status: proposed (2026-10-15)
+- Status: accepted (2026-10-16), council support 3 of 3; the owner can still write `rejected`
 - Proposed by: visitor
 - `update_readme.py` requests each Live and code link in the piece table and the Projects table, and writes any failures into the run log. Failures are logged, not published in the README.
 - Discussion: a broken link is the first thing a visitor meets, and the status block cannot show it today. One stdlib request per link keeps the script dependency-free. Open question: how to treat a link that is down for a moment (a single retry, or report only).
-- Votes: 1 support (proposer); no other vote recorded.
+- Discussion log (2026-10-16): visitor, designer and skeptic support. Conditions adopted: check own domains only, one retry, failures logged and not published. The skeptic's accepted trade-off: a dead link stays visible until fixed. The script also compares the piece counts of the README and STUDIO tables and logs any mismatch.
+- Votes: 3 support, 0 object.
+
+### 6. Short Game paragraph with the caveat first
+- Status: proposed (2026-10-16)
+- Proposed by: visitor, designer and skeptic (merged into one idea)
+- The README Game paragraph becomes two sentences that lead with what the game is and "tested on a local relay only; online play over public relays is untested". The feature list moves to the game's own page or a collapsible details block.
+- Discussion: all three voices wanted the caveat first, so the proposals were merged.
+- Votes: 3 support (the proposers), 0 object.
+
+### 7. Link the recent-activity lines to the live pages
+- Status: proposed (2026-10-16)
+- Proposed by: visitor (designer added a related note)
+- Piece names in the status block link to the live page. Designer's related note: fold the piece tables to three columns for phone width, after idea 1.
+- Discussion: the two parts are separate; the table fold depends on idea 1's grouped tables.
+- Votes: 1-2 support (the proposers; the visitor for the links, the designer for the fold); no objection.
+
+### 8. Back the "no tracking" claim with a scan
+- Status: proposed (2026-10-16)
+- Proposed by: skeptic
+- A stdlib scan of pieces and toys for external script and analytics hosts. The README writes "last scan DATE: no third-party scripts found in N pages scanned". If the scan fails or is stale, the claim is dropped or marked unchecked. The README never says "guaranteed".
+- Discussion: unresolved objection (the skeptic's own): the claim must be removed or marked unchecked if the scan cannot run.
+- Votes: 1 support (proposer); 1 unresolved objection (the skeptic's own condition above).
