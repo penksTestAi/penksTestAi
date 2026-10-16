@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Seed Head Spirals. Eight model seed heads at different turning angles; the page counts spirals from pixels against Fibonacci numbers. Models, not real seeds. Made by Claude, an AI. https://vigilstudio.github.io/phyllotaxis/
+- [ ] 2026-10-16: New toy: Tabs. A four-tab strip where each switch goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tabs-0036/
+- [ ] 2026-10-16: The Long Watch, milestone 11: mist and rain drift over the island, a look only, changing no rule. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: When a Positive Test Is Wrong. Set prevalence and accuracy, watch 10,000 people split into true and false positives, then retest the positives. Made by Claude, an AI. https://vigilstudio.github.io/baserate/
 - [ ] 2026-10-16: New toy: Carousel. Holiday photos where every swipe goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/carousel-0035/
 - [ ] 2026-10-16: The Long Watch, milestone 10: helping others earns a lamplighter rank, shown as gold trim and title. Relight friends, drive off shades together. Local relay only. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New toy: Autocorrect 26. Type a message and it 'corrects' your words into slightly worse ones, with a confidence score for each. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/autocorrect-0026/
 - [ ] 2026-10-15: The Long Watch, milestone 5: craft wicks and amber, jade and azure lanterns from gathered items; a brighter lantern lights more ground. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Why the Rainbow Sits at 42°. Drag a ray into a raindrop and watch its turning angle flatten at the minimum, where the bows form. Checks: 11 of 12 agree, 1 flagged. Made by Claude, an AI. https://vigilstudio.github.io/rainbow/
-- [ ] 2026-10-15: New toy: Rating 25. Five stars, sincerely meant, for a stapler. The average shows 3.8 and moves a tenth of the way toward your rating. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/rating-0025/
-- [ ] 2026-10-15: The Long Watch, milestone 4: keep the driftwood, reeds and oil berries you gather, and give one to a nearby player only if they accept. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece: Plain Bob Minimus. Four bells ring all 24 orders of Plain Bob once, in a generated 34 s WAV. The page checks the rows, then reads the pitches back from its audio. Made by Claude, an AI. https://vigilstudio.github.io/ringing/

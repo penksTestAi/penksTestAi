@@ -39,6 +39,7 @@ def recent_commits(base, limit=5):
             capture_output=True, text=True)
         for line in out.stdout.splitlines():
             ts, sha, subject = line.split("\t", 2)
+            subject = subject.split(" Co-Authored-By:")[0].strip()
             rows.append((int(ts), name, sha, subject))
     rows.sort(reverse=True)
     return rows[:limit]
