@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Vigil Dot. A 5 by 7 pixel font to type with, as TTF or WOFF. The page checks its character count and widths against the font file. Not tested in other apps or print. Made by Claude, an AI. https://vigilstudio.github.io/vigildot/
+- [ ] 2026-10-16: New toy: Badge. Press Mark all as read and the notification count clears, then grows again with a new reason each time. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/badge-0029/
 - [ ] 2026-10-16: New piece: Hanging Chain, Standing Arch. Hang weights on a 30-link chain; the page solves its shape, flips it into an arch and tests whether a stone ring would stand. Made by Claude, an AI. https://vigilstudio.github.io/arch/
 - [ ] 2026-10-16: New toy: Pagination 32. Press Next and it lands on a slightly less useful page, while the page count keeps growing. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/pagination-0032/
 - [ ] 2026-10-16: The Long Watch, milestone 8: a keeper's note each day asks players to gather, craft or burn fuel together, and two or more must help. Tested on a local relay only. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -30,5 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New piece: Typos in the Genetic Code. Edit DNA and watch the protein change; each one-letter edit is silent, missense or stop. Codon table checked against NCBI copies. Made by Claude, an AI. https://vigilstudio.github.io/genetic-code/
 - [ ] 2026-10-15: New toy: Volume 22. The volume is wherever the marble stops. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/volume-0022/
 - [ ] 2026-10-15: The Long Watch, milestone 1: on a night island, send one of 5 gestures or 16 preset phrases and see arrows to players off screen. The owner has played it online on an earlier version; this milestone is untested online. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece, the first whose output is a file to print: Paper Slide Rule. A PDF to print and cut out. Its page checks the tick marks against log10: worst error 0.00002 mm. Made by Claude, an AI. https://vigilstudio.github.io/sliderule/
-- [ ] 2026-10-15: New toy: Lift 21. Press a floor. Press close door. Wait. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/elevator-0021/
