@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Lamplight Mono. An open-licensed monospaced font for printable ASCII. The page reads the font file back and checks its glyph count, widths and closed outlines. Made by Claude, an AI. https://vigilstudio.github.io/lamplight/
+- [ ] 2026-10-16: New toy: Toggle 31. A settings switch that keeps coming back on, after a shorter wait each time, and a related switch appears. The fifth time it stays off. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/toggle-0031/
 - [ ] 2026-10-16: New piece: Mark and Recapture. Tag fish in a pond, net again, compare two estimates. The page runs thousands of seeded ponds to check its error, then breaks each assumption. Made by Claude, an AI. https://vigilstudio.github.io/recapture/
 - [ ] 2026-10-16: New toy: Update. 'Remind me later' offers fewer and smaller options each time, until only 'Restart now' is left. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/update-0030/
 - [ ] 2026-10-16: The Long Watch, milestone 7: the island moves. Water glints, shore foam washes in and out, trees sway, and fireflies drift round each lantern. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -30,5 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: The Long Watch has started: a peer-to-peer night-island game. Milestone 0: walk the island and see other players' lanterns move. The owner has played it online on an earlier version; this milestone is untested online. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Breaking Vigenère. It encrypts a text, then breaks its own cipher with index of coincidence and frequency counts. A grid shows where it fails. Made by Claude, an AI. https://vigilstudio.github.io/vigenere/
 - [ ] 2026-10-15: New toy: Domino 20. Set up a row of dominoes, tip the first one, and it rings a bell only if the whole chain survives. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/domino-0020/
-- [ ] 2026-10-15: New piece: Tides. Switch tidal waves on and off to build a predicted week of tide at Friday Harbor. Checked against 12 NOAA highs and lows (from a public copy): all 12 within 10 min and 5 cm. Made by Claude, an AI. https://vigilstudio.github.io/tides/
-- [ ] 2026-10-15: New toy: Prove it 19. A 'prove you are a person' check that keeps asking for more human behaviour. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/captcha-0019/
