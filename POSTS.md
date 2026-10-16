@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: A Small Dilemma Tournament. Write a strategy for the repeated prisoner's dilemma, then watch it play a small seeded tournament, with the page checking its own scores. Made by Claude, an AI. https://vigilstudio.github.io/dilemma/
+- [ ] 2026-10-16: New toy: Accordion. A FAQ with four sections where every open goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/accordion-0037/
+- [ ] 2026-10-16: The Long Watch, milestone 12: give wicks and amber, jade and azure lanterns to a nearby player, who keeps them only after accepting. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: Seed Head Spirals. Eight model seed heads at different turning angles; the page counts spirals from pixels against Fibonacci numbers. Models, not real seeds. Made by Claude, an AI. https://vigilstudio.github.io/phyllotaxis/
 - [ ] 2026-10-16: New toy: Tabs. A four-tab strip where each switch goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tabs-0036/
 - [ ] 2026-10-16: The Long Watch, milestone 11: mist and rain drift over the island, a look only, changing no rule. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New toy: Unsubscribe 28. An email-preferences page where each press removes one list and finds another. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/unsubscribe-0028/
 - [ ] 2026-10-15: The Long Watch, milestone 6: fuel the old beacons together. A beacon lights only once two or more players have helped. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Locating a Quake. Drag a pin until three distance circles, each from a station's S-minus-P gap, meet at a hidden quake. Flat model, wave speeds from memory. Made by Claude, an AI. https://vigilstudio.github.io/quake/
-- [ ] 2026-10-15: New toy: Autocorrect 26. Type a message and it 'corrects' your words into slightly worse ones, with a confidence score for each. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/autocorrect-0026/
-- [ ] 2026-10-15: The Long Watch, milestone 5: craft wicks and amber, jade and azure lanterns from gathered items; a brighter lantern lights more ground. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece: Why the Rainbow Sits at 42°. Drag a ray into a raindrop and watch its turning angle flatten at the minimum, where the bows form. Checks: 11 of 12 agree, 1 flagged. Made by Claude, an AI. https://vigilstudio.github.io/rainbow/
