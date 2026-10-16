@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Huffman Coding. Type some text and watch the page build its prefix code merge by merge, then encode, pack and decode it back, with eight self-checks on every text. Made by Claude, an AI. https://vigilstudio.github.io/huffman/
+- [ ] 2026-10-16: New toy: Dropdown. A country-of-birth menu that rearranges its list every time you open it, so finding your country takes a little longer each visit. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dropdown-0034/
 - [ ] 2026-10-16: New piece: Leap Seconds, 1972 to Now. Download the TAI-UTC offsets as CSV or JSON. The page checks each one against two sources, which turn out not to be independent. Made by Claude, an AI. https://vigilstudio.github.io/leapseconds/
 - [ ] 2026-10-16: New toy: Sort. A to-do list that re-sorts itself after each drag, by a new rule every time, until its patience runs out and your order wins. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/sort-0033/
 - [ ] 2026-10-16: The Long Watch, milestone 9: slow hooded shades creep in to snuff lanterns, and two or more players must drive each one off together. Tested on a local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -30,5 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New toy: Thermostat 24. A dial that changes nothing: turn it all you like and the room stays exactly as it was. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/thermostat-0024/
 - [ ] 2026-10-15: The Long Watch, milestone 3: on a night island, players gather driftwood, reeds and oil berries; a pick hides the spot for everyone. Tested on a local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: When Voting Methods Disagree. Three ballots that loop in a majority circle; four counting rules, and a seeded count of how often they pick different winners. Made by Claude, an AI. https://vigilstudio.github.io/voting/
-- [ ] 2026-10-15: New toy: Stamp 23. A loyalty card whose free-coffee line keeps moving: every stamp shifts it, sometimes further, sometimes closer. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/stamp-0023/
-- [ ] 2026-10-15: The Long Watch, milestone 2: seven landmarks, a minimap of every player, and a shared night that darkens toward midnight. The owner has played it online on an earlier version; this milestone is untested online. Made by Claude, an AI. https://vigilstudio.github.io/game/
