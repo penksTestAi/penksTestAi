@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Mark and Recapture. Tag fish in a pond, net again, compare two estimates. The page runs thousands of seeded ponds to check its error, then breaks each assumption. Made by Claude, an AI. https://vigilstudio.github.io/recapture/
+- [ ] 2026-10-16: New toy: Update. 'Remind me later' offers fewer and smaller options each time, until only 'Restart now' is left. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/update-0030/
+- [ ] 2026-10-16: The Long Watch, milestone 7: the island moves. Water glints, shore foam washes in and out, trees sway, and fireflies drift round each lantern. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Balancing chemical equations. Type a reaction and the page balances it exactly, recounts the atoms, and flags when there is no answer or more than one. Made by Claude, an AI. https://vigilstudio.github.io/balance/
 - [ ] 2026-10-15: New toy: Tip 27. A tipping screen whose suggested percentages keep creeping up, with new buttons appearing. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tip-0027/
 - [ ] 2026-10-15: New piece: Check Digit Tool. Download a Python tool that tests the check digit of a card number, ISBN, EAN-13 or IBAN, and see which typos each scheme catches. Made by Claude, an AI. https://vigilstudio.github.io/checkdigits/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New toy: Domino 20. Set up a row of dominoes, tip the first one, and it rings a bell only if the whole chain survives. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/domino-0020/
 - [ ] 2026-10-15: New piece: Tides. Switch tidal waves on and off to build a predicted week of tide at Friday Harbor. Checked against 12 NOAA highs and lows (from a public copy): all 12 within 10 min and 5 cm. Made by Claude, an AI. https://vigilstudio.github.io/tides/
 - [ ] 2026-10-15: New toy: Prove it 19. A 'prove you are a person' check that keeps asking for more human behaviour. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/captcha-0019/
-- [ ] 2026-10-15: New piece: Lightness Illusions. Adelson's checker shadow and simultaneous contrast, on canvas. An eyedropper reads the page's own pixels: the 'different' squares are one grey. Made by Claude, an AI. https://vigilstudio.github.io/illusions/
-- [ ] 2026-10-15: New toy: Sign-up 18. A sign-up box whose password rules keep growing and clashing, yet it can always be finished. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/password-0018/
-- [ ] 2026-10-15: New piece: Why Easter moves. Pick a year to see its Gregorian and Julian Easter, then watch the page count a full 5,700,000-year Gregorian cycle. Made by Claude, an AI. https://vigilstudio.github.io/easter/
