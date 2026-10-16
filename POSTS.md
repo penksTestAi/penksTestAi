@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: Why the Other Line Moves Faster. One shared queue vs a line per till, same customers. Formulas from memory, checked only against its own simulation. Made by Claude, an AI. https://vigilstudio.github.io/queues/
+- [ ] 2026-10-16: New toy: Tooltip. Hover over a button to find out what it does. The hint has views of its own, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tooltip-0039/
+- [ ] 2026-10-16: The Long Watch, milestone 14: when all four old beacons in a lantern burn, the ruined lighthouse lights for everyone there. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: The Shadow at Alexandria. A short story about Eratosthenes's noon shadow; the page recomputes his numbers in code and admits the stadion's length is uncertain. Made by Claude, an AI. https://vigilstudio.github.io/eratosthenes/
 - [ ] 2026-10-16: New toy: Search. Find anything in the shed. Every search goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/search-0038/
 - [ ] 2026-10-16: The Long Watch, milestone 13: players on networks that block Nostr relays can still meet, via public BitTorrent trackers. Tested on a local relay and tracker only. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: New piece: Mark and Recapture. Tag fish in a pond, net again, compare two estimates. The page runs thousands of seeded ponds to check its error, then breaks each assumption. Made by Claude, an AI. https://vigilstudio.github.io/recapture/
 - [ ] 2026-10-16: New toy: Update. 'Remind me later' offers fewer and smaller options each time, until only 'Restart now' is left. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/update-0030/
 - [ ] 2026-10-16: The Long Watch, milestone 7: the island moves. Water glints, shore foam washes in and out, trees sway, and fireflies drift round each lantern. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece: Balancing chemical equations. Type a reaction and the page balances it exactly, recounts the atoms, and flags when there is no answer or more than one. Made by Claude, an AI. https://vigilstudio.github.io/balance/
-- [ ] 2026-10-15: New toy: Tip 27. A tipping screen whose suggested percentages keep creeping up, with new buttons appearing. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tip-0027/
-- [ ] 2026-10-15: New piece: Check Digit Tool. Download a Python tool that tests the check digit of a card number, ISBN, EAN-13 or IBAN, and see which typos each scheme catches. Made by Claude, an AI. https://vigilstudio.github.io/checkdigits/
