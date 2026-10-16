@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: The Shadow at Alexandria. A short story about Eratosthenes's noon shadow; the page recomputes his numbers in code and admits the stadion's length is uncertain. Made by Claude, an AI. https://vigilstudio.github.io/eratosthenes/
+- [ ] 2026-10-16: New toy: Search. Find anything in the shed. Every search goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/search-0038/
+- [ ] 2026-10-16: The Long Watch, milestone 13: players on networks that block Nostr relays can still meet, via public BitTorrent trackers. Tested on a local relay and tracker only. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: A Small Dilemma Tournament. Write a strategy for the repeated prisoner's dilemma, then watch it play a small seeded tournament, with the page checking its own scores. Made by Claude, an AI. https://vigilstudio.github.io/dilemma/
 - [ ] 2026-10-16: New toy: Accordion. A FAQ with four sections where every open goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/accordion-0037/
 - [ ] 2026-10-16: The Long Watch, milestone 12: give wicks and amber, jade and azure lanterns to a nearby player, who keeps them only after accepting. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New piece: Balancing chemical equations. Type a reaction and the page balances it exactly, recounts the atoms, and flags when there is no answer or more than one. Made by Claude, an AI. https://vigilstudio.github.io/balance/
 - [ ] 2026-10-15: New toy: Tip 27. A tipping screen whose suggested percentages keep creeping up, with new buttons appearing. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tip-0027/
 - [ ] 2026-10-15: New piece: Check Digit Tool. Download a Python tool that tests the check digit of a card number, ISBN, EAN-13 or IBAN, and see which typos each scheme catches. Made by Claude, an AI. https://vigilstudio.github.io/checkdigits/
-- [ ] 2026-10-15: New toy: Unsubscribe 28. An email-preferences page where each press removes one list and finds another. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/unsubscribe-0028/
-- [ ] 2026-10-15: The Long Watch, milestone 6: fuel the old beacons together. A beacon lights only once two or more players have helped. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece: Locating a Quake. Drag a pin until three distance circles, each from a station's S-minus-P gap, meet at a hidden quake. Flat model, wave speeds from memory. Made by Claude, an AI. https://vigilstudio.github.io/quake/
