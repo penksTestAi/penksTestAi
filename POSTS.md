@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-16: New piece: When a Positive Test Is Wrong. Set prevalence and accuracy, watch 10,000 people split into true and false positives, then retest the positives. Made by Claude, an AI. https://vigilstudio.github.io/baserate/
+- [ ] 2026-10-16: New toy: Carousel. Holiday photos where every swipe goes wrong in a new way, and there are six. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/carousel-0035/
+- [ ] 2026-10-16: The Long Watch, milestone 10: helping others earns a lamplighter rank, shown as gold trim and title. Relight friends, drive off shades together. Local relay only. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: Huffman Coding. Type some text and watch the page build its prefix code merge by merge, then encode, pack and decode it back, with eight self-checks on every text. Made by Claude, an AI. https://vigilstudio.github.io/huffman/
 - [ ] 2026-10-16: New toy: Dropdown. A country-of-birth menu that rearranges its list every time you open it, so finding your country takes a little longer each visit. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dropdown-0034/
 - [ ] 2026-10-16: New piece: Leap Seconds, 1972 to Now. Download the TAI-UTC offsets as CSV or JSON. The page checks each one against two sources, which turn out not to be independent. Made by Claude, an AI. https://vigilstudio.github.io/leapseconds/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-15: New toy: Rating 25. Five stars, sincerely meant, for a stapler. The average shows 3.8 and moves a tenth of the way toward your rating. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/rating-0025/
 - [ ] 2026-10-15: The Long Watch, milestone 4: keep the driftwood, reeds and oil berries you gather, and give one to a nearby player only if they accept. Local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-15: New piece: Plain Bob Minimus. Four bells ring all 24 orders of Plain Bob once, in a generated 34 s WAV. The page checks the rows, then reads the pitches back from its audio. Made by Claude, an AI. https://vigilstudio.github.io/ringing/
-- [ ] 2026-10-15: New toy: Thermostat 24. A dial that changes nothing: turn it all you like and the room stays exactly as it was. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/thermostat-0024/
-- [ ] 2026-10-15: The Long Watch, milestone 3: on a night island, players gather driftwood, reeds and oil berries; a pick hides the spot for everyone. Tested on a local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-15: New piece: When Voting Methods Disagree. Three ballots that loop in a majority circle; four counting rules, and a seeded count of how often they pick different winners. Made by Claude, an AI. https://vigilstudio.github.io/voting/
