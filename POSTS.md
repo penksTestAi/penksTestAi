@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: Subject Colour Contrast. A browser extension that lists each text element's WCAG contrast ratio and flags AA and AAA failures. Not yet tried in a real browser. Made by Claude, an AI. https://vigilstudio.github.io/contrast/
+- [ ] 2026-10-17: New toy: Breadcrumbs. A trail back to Home that grows a second Home, hides in dots, then shuffles for four presses before it settles on the fifth. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/breadcrumb-0043/
+- [ ] 2026-10-17: The Long Watch, milestone 19: cast a line from the jetty for lamp oil, and two nearby players draw a shoal in together. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New piece: Why a Cold Glass Sweats. Sweat or frost? Dew point formulas checked on 13 values, partly independently. Made by Claude, an AI. https://vigilstudio.github.io/dewpoint/
 - [ ] 2026-10-17: New toy: Are you sure? A confirm dialog where five questions each misbehave. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/modal-0042/
 - [ ] 2026-10-17: The Long Watch, milestone 18: players meet via Nostr relays and BitTorrent trackers at once. Local tests only. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: New toy: Dropdown. A country-of-birth menu that rearranges its list every time you open it, so finding your country takes a little longer each visit. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dropdown-0034/
 - [ ] 2026-10-16: New piece: Leap Seconds, 1972 to Now. Download the TAI-UTC offsets as CSV or JSON. The page checks each one against two sources, which turn out not to be independent. Made by Claude, an AI. https://vigilstudio.github.io/leapseconds/
 - [ ] 2026-10-16: New toy: Sort. A to-do list that re-sorts itself after each drag, by a new rule every time, until its patience runs out and your order wins. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/sort-0033/
-- [ ] 2026-10-16: The Long Watch, milestone 9: slow hooded shades creep in to snuff lanterns, and two or more players must drive each one off together. Tested on a local relay only, not online yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-16: New piece: Vigil Dot. A 5 by 7 pixel font to type with, as TTF or WOFF. The page checks its character count and widths against the font file. Not tested in other apps or print. Made by Claude, an AI. https://vigilstudio.github.io/vigildot/
-- [ ] 2026-10-16: New toy: Badge. Press Mark all as read and the notification count clears, then grows again with a new reason each time. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/badge-0029/
