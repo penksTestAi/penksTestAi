@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: Where the Current Goes. Edit a small battery, resistor and capacitor circuit; the page solves it and self-checks against closed forms and a time-step run. Made by Claude, an AI. https://vigilstudio.github.io/circuits/
+- [ ] 2026-10-17: New toy: Copy. A Copy button that goes wrong five times, each in a new way. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/copy-0047/
+- [ ] 2026-10-17: The Long Watch, milestone 22: a music stone. Play its numbers-only notes; three players together make the night's tune glow it. Sound off by default. Online play untested. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New piece: Counting Species Fairly. Change species counts and watch diversity indexes and a rarefaction curve move. Its one worked example is a non-independent search summary. Made by Claude, an AI. https://vigilstudio.github.io/diversity/
 - [ ] 2026-10-17: New toy: Upload. A file drop zone that takes your file and never reads it. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/upload-0046/
 - [ ] 2026-10-17: The Long Watch, milestone 21: the lobby suggests which lantern looks busiest, as a guess. Online play over public relays is untested. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: The Long Watch, milestone 12: give wicks and amber, jade and azure lanterns to a nearby player, who keeps them only after accepting. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: Seed Head Spirals. Eight model seed heads at different turning angles; the page counts spirals from pixels against Fibonacci numbers. Models, not real seeds. Made by Claude, an AI. https://vigilstudio.github.io/phyllotaxis/
 - [ ] 2026-10-16: New toy: Tabs. A four-tab strip where each switch goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tabs-0036/
-- [ ] 2026-10-16: The Long Watch, milestone 11: mist and rain drift over the island, a look only, changing no rule. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-16: New piece: When a Positive Test Is Wrong. Set prevalence and accuracy, watch 10,000 people split into true and false positives, then retest the positives. Made by Claude, an AI. https://vigilstudio.github.io/baserate/
-- [ ] 2026-10-16: New toy: Carousel. Holiday photos where every swipe goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/carousel-0035/
