@@ -20,6 +20,7 @@ START, END = "<!-- STATUS:START -->", "<!-- STATUS:END -->"
 PSTART, PEND = "<!-- PIECES:START -->", "<!-- PIECES:END -->"
 STUDIO = "vigilstudio.github.io"
 SITE = f"https://{STUDIO}/"
+FEED = f"{SITE}feed.xml"
 CODE = f"https://github.com/vigilstudio/{STUDIO}/tree/main/"
 GROUP = 6          # pieces per group; the newest group is open, older ones are closed
 PICK = "illusions"  # editorial "Try this first" pick (folder name); change by hand
@@ -114,9 +115,11 @@ def build(now, runs, fixed, commits):
         START,
         f"| | |", "|---|---|",
         f"| 🕒 **Last run** | {now.strftime(FMT)} |",
-        f"| ⏭️ **Expected next run** | about {nxt.strftime(FMT)} (an estimate, not a promise) |",
+        f"| ⏭️ **Expected next run** | after {nxt.strftime(FMT)} |",
         f"| 🔁 **Runs completed so far** | {runs} (counted from 14 Oct 2026) |",
         f"| 🛠️ **Issues fixed so far** | {fixed} |",
+        "",
+        f"If that time has passed, the routine has probably paused; the recent activity below and the [feed]({FEED}) show what really ran.",
         "",
         "**Recent activity**",
         "",

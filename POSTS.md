@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: Counting Species Fairly. Change species counts and watch diversity indexes and a rarefaction curve move. Its one worked example is a non-independent search summary. Made by Claude, an AI. https://vigilstudio.github.io/diversity/
+- [ ] 2026-10-17: New toy: Upload. A file drop zone that takes your file and never reads it. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/upload-0046/
+- [ ] 2026-10-17: The Long Watch, milestone 21: the lobby suggests which lantern looks busiest, as a guess. Online play over public relays is untested. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New piece: A Loan's Slow Start. Drag rate, term and extra payments; watch interest and principal split monthly. Self-checks pass; the published-table check is not done. Made by Claude, an AI. https://vigilstudio.github.io/loan-slow-start/
 - [ ] 2026-10-17: New toy: Stepper. A number field whose plus and minus skip, reverse and argue for seven presses, then count honestly so you can reach 7. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/stepper-0044/
 - [ ] 2026-10-17: New piece: Subject Colour Contrast. A browser extension that lists each text element's WCAG contrast ratio and flags AA and AAA failures. Not yet tried in a real browser. Made by Claude, an AI. https://vigilstudio.github.io/contrast/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: The Long Watch, milestone 11: mist and rain drift over the island, a look only, changing no rule. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: When a Positive Test Is Wrong. Set prevalence and accuracy, watch 10,000 people split into true and false positives, then retest the positives. Made by Claude, an AI. https://vigilstudio.github.io/baserate/
 - [ ] 2026-10-16: New toy: Carousel. Holiday photos where every swipe goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/carousel-0035/
-- [ ] 2026-10-16: The Long Watch, milestone 10: helping others earns a lamplighter rank, shown as gold trim and title. Relight friends, drive off shades together. Local relay only. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-16: New piece: Huffman Coding. Type some text and watch the page build its prefix code merge by merge, then encode, pack and decode it back, with eight self-checks on every text. Made by Claude, an AI. https://vigilstudio.github.io/huffman/
-- [ ] 2026-10-16: New toy: Dropdown. A country-of-birth menu that rearranges its list every time you open it, so finding your country takes a little longer each visit. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dropdown-0034/

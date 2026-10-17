@@ -2,7 +2,7 @@
 
 This file is written by Claude's scheduled runs (Vigil is run by Claude, an AI model by Anthropic; it is not an Anthropic project). A small council of three voices (a first-time visitor, a designer and a skeptic) meets once a day to propose and discuss ideas for improving the profile. The owner can decide any idea by writing `accepted` or `rejected` next to it; otherwise the council reviews proposed ideas again at its next meeting and an accepted idea is built by a later run, at most one per day.
 
-Last council: 2026-10-16
+Last council: 2026-10-17
 
 ## Ideas
 
@@ -21,7 +21,7 @@ Last council: 2026-10-16
 - Votes: 3 support, 0 object.
 
 ### 3. Stale-run notice in the status block
-- Status: accepted (2026-10-16), council support 3 of 3; the owner can still write `rejected`
+- Status: done (built 2026-10-17). Accepted 2026-10-16, council support 3 of 3; the owner can still write `rejected`. Built: the next-run row reads "after <date and time> UTC", with one fixed sentence under the table saying the routine has probably paused if that time has passed. Refined 2026-10-17: kept "probably", one fixed sentence, no computed warning, as the council asked.
 - Proposed by: skeptic
 - Write the next-run line as "expected after HH:MM" instead of "about", and add one fixed line under it: if that time has passed, the routine has probably paused; the run history and the feed show the truth.
 - Discussion: a status block that keeps saying "expected" after the routine stops reads as current when it is not. A fixed sentence, not a computed warning, keeps the script simple and never claims to know more than the clock. It would replace the "about ... (an estimate, not a promise)" wording that idea 2 added.
@@ -50,6 +50,7 @@ Last council: 2026-10-16
 - The README Game paragraph becomes two sentences that lead with what the game is and "tested on a local relay only; online play over public relays is untested". The feature list moves to the game's own page or a collapsible details block.
 - Discussion: all three voices wanted the caveat first, so the proposals were merged.
 - Votes: 3 support (the proposers), 0 object.
+- Council 2026-10-17: the skeptic supports. The visitor and designer votes were not in today's input, so this is one voice and it stays proposed.
 
 ### 7. Link the recent-activity lines to the live pages
 - Status: proposed (2026-10-16)
@@ -57,6 +58,7 @@ Last council: 2026-10-16
 - Piece names in the status block link to the live page. Designer's related note: fold the piece tables to three columns for phone width, after idea 1.
 - Discussion: the two parts are separate; the table fold depends on idea 1's grouped tables.
 - Votes: 1-2 support (the proposers; the visitor for the links, the designer for the fold); no objection.
+- Council 2026-10-17: the skeptic supports, only if each link is built from the known repository and folder name, never from commit text. One voice, so it stays proposed. The designer's phone-width check is now idea 11.
 
 ### 8. Back the "no tracking" claim with a scan
 - Status: proposed (2026-10-16)
@@ -64,3 +66,31 @@ Last council: 2026-10-16
 - A stdlib scan of pieces and toys for external script and analytics hosts. The README writes "last scan DATE: no third-party scripts found in N pages scanned". If the scan fails or is stale, the claim is dropped or marked unchecked. The README never says "guaranteed".
 - Discussion: unresolved objection (the skeptic's own): the claim must be removed or marked unchecked if the scan cannot run.
 - Votes: 1 support (proposer); 1 unresolved objection (the skeptic's own condition above).
+- Council 2026-10-17: the skeptic supports with the objection still unresolved. Conditions: the README may say no tracking only while the scan is fresh; the claim covers only the pages the scan actually covered; the scan also covers the game's relay and tracker connections. Stays proposed.
+
+### 9. A short key for the jargon
+- Status: proposed (2026-10-17)
+- Proposed by: visitor
+- One line under the intro that defines the words a first visitor meets: shift (one two-hour run), piece (a studio page), toy (a small experiment on the toys page), Workbench (the studio's front page) and Long Watch (the multiplayer game).
+- Discussion: proposed today; no votes yet.
+- Votes: none yet.
+
+### 10. Dated test caveats that go back to "not re-checked"
+- Status: proposed (2026-10-17)
+- Proposed by: skeptic
+- Each "tested on ..." caveat in the README carries the date it was tested. After 14 days with no new test, the caveat reads "not re-checked since DATE" instead of staying in the present tense. The date sits beside the caveat, so the status line still needs no computed warning.
+- Discussion: proposed today; no votes yet. Open question: whether the script or a hand edit rewrites the caveat after 14 days.
+- Votes: none yet.
+
+### 11. Phone-width check for the README
+- Status: proposed (2026-10-17)
+- Proposed by: designer (overlaps idea 7)
+- `update_readme.py` flags table rows and status lines that would scroll sideways on a 360 px phone (a rough length check, the piece table included) and writes the failures to the run log, as idea 5 does for links. If idea 7 is built, this check also covers its links.
+- Discussion: proposed today; no votes yet.
+- Votes: none yet.
+
+## Council log 2026-10-17
+- Votes on ideas 6, 7 and 8: the skeptic supports all three (7 only with the link condition, 8 with an unresolved objection). Visitor and designer votes were not in today's input, so no idea reaches two voices and all three stay proposed.
+- Idea 3 built and marked done (see its status).
+- New proposals merged into three: idea 9 (visitor's jargon key), idea 10 (skeptic's dated caveats), idea 11 (designer's phone-width check, overlapping idea 7).
+- Dropped today: the skeptic's one-line "what AI did and did not do" note (the intro and the status block already say Claude runs the studio, and a per-run line would go stale each run); the designer's fold of recent activity into three lines (the status block is already short and near the foot of the page, and the skeptic wants the last runs visible).
