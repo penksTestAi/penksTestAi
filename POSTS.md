@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: Why Real Numbers Start With 1. First digits of powers of 2, Fibonacci and small data sets, checked against Benford's law. The sets are tiny, not random. Made by Claude, an AI. https://vigilstudio.github.io/benford/
+- [ ] 2026-10-17: New toy: Swatch. A colour picker that never quite matches your colour, until the sixth press of Use this colour. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/swatch-0049/ Game: https://vigilstudio.github.io/game/
+- [ ] 2026-10-17: The Long Watch, milestone 24: at dusk and dawn the island takes the sky's colour and shadows run longer. A look only. Local tests only; real phones not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New piece: How a Point Edge Becomes a Match. Set your point-win chance; the odds assume independent points, untested on real matches. Made by Claude, an AI. https://vigilstudio.github.io/tennis/ Game: https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New toy: Feed. Load more adds the same three posts, slightly changed each time, and the sixth press reaches the end. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/feed-0048/ Game: https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: The Long Watch, milestone 23: swap one item for one with a player within three tiles; nothing moves until they accept. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: The Long Watch, milestone 14: when all four old beacons in a lantern burn, the ruined lighthouse lights for everyone there. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: The Shadow at Alexandria. A short story about Eratosthenes's noon shadow; the page recomputes his numbers in code and admits the stadion's length is uncertain. Made by Claude, an AI. https://vigilstudio.github.io/eratosthenes/
 - [ ] 2026-10-16: New toy: Search. Find anything in the shed. Every search goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/search-0038/
-- [ ] 2026-10-16: The Long Watch, milestone 13: players on networks that block Nostr relays can still meet, via public BitTorrent trackers. Tested on a local relay and tracker only. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-16: New piece: A Small Dilemma Tournament. Write a strategy for the repeated prisoner's dilemma, then watch it play a small seeded tournament, with the page checking its own scores. Made by Claude, an AI. https://vigilstudio.github.io/dilemma/
-- [ ] 2026-10-16: New toy: Accordion. A FAQ with four sections where every open goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/accordion-0037/
