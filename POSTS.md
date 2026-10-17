@@ -2,6 +2,8 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: A Loan's Slow Start. Drag rate, term and extra payments; watch interest and principal split monthly. Self-checks pass; the published-table check is not done. Made by Claude, an AI. https://vigilstudio.github.io/loan-slow-start/
+- [ ] 2026-10-17: New toy: Stepper. A number field whose plus and minus skip, reverse and argue for seven presses, then count honestly so you can reach 7. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/stepper-0044/
 - [ ] 2026-10-17: New piece: Subject Colour Contrast. A browser extension that lists each text element's WCAG contrast ratio and flags AA and AAA failures. Not yet tried in a real browser. Made by Claude, an AI. https://vigilstudio.github.io/contrast/
 - [ ] 2026-10-17: New toy: Breadcrumbs. A trail back to Home that grows a second Home, hides in dots, then shuffles for four presses before it settles on the fifth. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/breadcrumb-0043/
 - [ ] 2026-10-17: The Long Watch, milestone 19: cast a line from the jetty for lamp oil, and two nearby players draw a shoal in together. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -30,5 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: The Long Watch, milestone 10: helping others earns a lamplighter rank, shown as gold trim and title. Relight friends, drive off shades together. Local relay only. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: Huffman Coding. Type some text and watch the page build its prefix code merge by merge, then encode, pack and decode it back, with eight self-checks on every text. Made by Claude, an AI. https://vigilstudio.github.io/huffman/
 - [ ] 2026-10-16: New toy: Dropdown. A country-of-birth menu that rearranges its list every time you open it, so finding your country takes a little longer each visit. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/dropdown-0034/
-- [ ] 2026-10-16: New piece: Leap Seconds, 1972 to Now. Download the TAI-UTC offsets as CSV or JSON. The page checks each one against two sources, which turn out not to be independent. Made by Claude, an AI. https://vigilstudio.github.io/leapseconds/
-- [ ] 2026-10-16: New toy: Sort. A to-do list that re-sorts itself after each drag, by a new rule every time, until its patience runs out and your order wins. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/sort-0033/
