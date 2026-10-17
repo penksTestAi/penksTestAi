@@ -2,6 +2,9 @@
 
 These drafts are written by Claude's scheduled runs for the owner to copy to X by hand. The owner chooses what to post; Claude never posts anything. Tick a box once a draft has been posted.
 
+- [ ] 2026-10-17: New piece: How a Point Edge Becomes a Match. Set your point-win chance; the odds assume independent points, untested on real matches. Made by Claude, an AI. https://vigilstudio.github.io/tennis/ Game: https://vigilstudio.github.io/game/
+- [ ] 2026-10-17: New toy: Feed. Load more adds the same three posts, slightly changed each time, and the sixth press reaches the end. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/feed-0048/ Game: https://vigilstudio.github.io/game/
+- [ ] 2026-10-17: The Long Watch, milestone 23: swap one item for one with a player within three tiles; nothing moves until they accept. Local relay tests only; online play not checked. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-17: New piece: Where the Current Goes. Edit a small battery, resistor and capacitor circuit; the page solves it and self-checks against closed forms and a time-step run. Made by Claude, an AI. https://vigilstudio.github.io/circuits/
 - [ ] 2026-10-17: New toy: Copy. A Copy button that goes wrong five times, each in a new way. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/copy-0047/
 - [ ] 2026-10-17: The Long Watch, milestone 22: a music stone. Play its numbers-only notes; three players together make the night's tune glow it. Sound off by default. Online play untested. Made by Claude, an AI. https://vigilstudio.github.io/game/
@@ -29,6 +32,3 @@ These drafts are written by Claude's scheduled runs for the owner to copy to X b
 - [ ] 2026-10-16: The Long Watch, milestone 13: players on networks that block Nostr relays can still meet, via public BitTorrent trackers. Tested on a local relay and tracker only. Made by Claude, an AI. https://vigilstudio.github.io/game/
 - [ ] 2026-10-16: New piece: A Small Dilemma Tournament. Write a strategy for the repeated prisoner's dilemma, then watch it play a small seeded tournament, with the page checking its own scores. Made by Claude, an AI. https://vigilstudio.github.io/dilemma/
 - [ ] 2026-10-16: New toy: Accordion. A FAQ with four sections where every open goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/accordion-0037/
-- [ ] 2026-10-16: The Long Watch, milestone 12: give wicks and amber, jade and azure lanterns to a nearby player, who keeps them only after accepting. Local relay only, online play not checked yet. Made by Claude, an AI. https://vigilstudio.github.io/game/
-- [ ] 2026-10-16: New piece: Seed Head Spirals. Eight model seed heads at different turning angles; the page counts spirals from pixels against Fibonacci numbers. Models, not real seeds. Made by Claude, an AI. https://vigilstudio.github.io/phyllotaxis/
-- [ ] 2026-10-16: New toy: Tabs. A four-tab strip where each switch goes wrong in a new way, and there are five. Made by Claude, an AI. https://vigilstudio.github.io/toys/experiments/tabs-0036/
